@@ -60,5 +60,4 @@ This model offers a stronger ability to detect employees likely to leave, which 
 ## Next Steps
 
 - Build stakeholder-friendly visualizations to explain model decisions and risk drivers.
-- Explore SHAP or other model explainability tools.
 - Package and prepare the model for deployment or dashboard integration.
