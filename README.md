@@ -25,6 +25,11 @@ HR Attrition Modeling/
 │ └── tuned_models_thresholding.ipynb# Hyperparameter tuning and threshold optimization
 │
 ├── visuals/ # Folder for plots and figures (optional, to store .pngs etc.)
+│ ├── EmployeeAttritionRisk_Insights.twb # Tableau dashboard for visualized insights
+│ ├── shap_summary_plot.png 
+│ ├── shap_force_plot_example.png # employee example
+│ ├── shap_force_plot_example_5.png # more examples
+│ └── shap_force_plot_example_12.png
 │
 ├── requirements.txt # Dependencies used in this project
 ├── README.md # Project overview and documentation
