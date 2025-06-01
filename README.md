@@ -21,8 +21,9 @@ HR Attrition Modeling/
 ├── notebooks/
 │ ├── eda_attrition.ipynb # Exploratory Data Analysis
 │ ├── modeling_attrition.ipynb # Baseline model building and evaluation
-│ ├── feature_engineering_trees.ipynb# Feature refinement for tree-based models
-│ └── tuned_models_thresholding.ipynb# Hyperparameter tuning and threshold optimization
+│ ├── feature_engineering_trees.ipynb # Feature refinement for tree-based models
+│ └── tuned_models_thresholding.ipynb # Hyperparameter tuning and threshold optimization
+│ └── shap_explainability.ipynb # Shap explainability analysis on employee level
 │
 ├── visuals/ # Folder for plots and figures (optional, to store .pngs etc.)
 │ ├── EmployeeAttritionRisk_Insights.twb # Tableau dashboard for visualized insights
